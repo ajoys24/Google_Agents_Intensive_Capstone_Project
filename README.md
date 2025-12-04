@@ -128,7 +128,7 @@ Produces:
 
 Below is the overall architecture.  
 
-![Architecture Diagram](media/literature_review_architecture.png)
+![Architecture Diagram](media/literature_review_architecture-improved.png)
 
 This notebook implements a comprehensive **multi-agent system** for automated literature review generation, demonstrating all ADK concepts from the 5‑day course.
 
