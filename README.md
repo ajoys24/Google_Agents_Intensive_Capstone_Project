@@ -1,5 +1,7 @@
 # 📚 Mukti Scholar Agent - An Autonomous Literature Review & Research Multi-Agent System
-![Mukti Scholar Agent Diagram](media/Mukti Scholar Agent.png)
+
+(![Banner Image](media/image.png)
+
 *Capstone Project for Google Agents Intensive*
 
 *Multi-Agent Autonomous AI System for Literature Review & Research*
